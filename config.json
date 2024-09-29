@@ -3,7 +3,7 @@
 	"password": "",
 	"adminOnly": false,
 	"adminBot": ["61554451542296"],
-	"nickNameBot": "HABIBI BOT",
+	"nickNameBot": "HABIBI",
 	"prefix": "#",
 	"database": {
 		"type": "local",
