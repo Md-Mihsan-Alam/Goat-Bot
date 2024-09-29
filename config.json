@@ -2,8 +2,8 @@
 	"email": "",
 	"password": "",
 	"adminOnly": false,
-	"adminBot": [],
-	"nickNameBot": "",
+	"adminBot": ["61554451542296"],
+	"nickNameBot": "HABIBI BOT",
 	"prefix": "#",
 	"database": {
 		"type": "local",
